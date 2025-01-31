@@ -1,0 +1,1 @@
+This example demonstrates a common Perl bug involving symbolic references. The script uses a symbolic reference to indirectly modify a variable, which can be difficult to trace and debug.  The solution shows how to avoid this issue and write cleaner, more maintainable Perl code.
